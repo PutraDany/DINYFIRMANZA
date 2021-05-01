@@ -1,0 +1,56 @@
+$ORIGIN diny.com.
+$TTL 3600
+
+diny.com.  3600  IN  SOA ns01.serverspace.io. support.serverspace.io. 2021042803 10800 3600 604800 3600
+diny.com.  3600  IN  NS ns02.serverspace.io.
+diny.com.  3600  IN  NS ns01.serverspace.io.
+mx.diny.com.  3600  IN  A 35.186.238.101
+www.diny.com.  3600  IN  A 35.186.238.101
+new.diny.com.  3600  IN  A 35.186.238.101
+dev.diny.com.  3600  IN  A 35.186.238.101
+localhost.diny.com.  3600  IN  A 35.186.238.101
+test.diny.com.  3600  IN  A 35.186.238.101
+support.diny.com.  3600  IN  A 35.186.238.101
+news.diny.com.  3600  IN  A 35.186.238.101
+lists.diny.com.  3600  IN  A 35.186.238.101
+ns.diny.com.  3600  IN  A 35.186.238.101
+images.diny.com.  3600  IN  A 35.186.238.101
+mobilelegends.diny.com.  3600  IN  A 35.186.238.101
+docs.diny.com.  3600  IN  A 35.186.238.101
+autodiscover.diny.com.  3600  IN  A 35.186.238.101
+calendar.diny.com.  3600  IN  A 35.186.238.101
+smtp.diny.com.  3600  IN  A 35.186.238.101
+ftp.diny.com.  3600  IN  A 35.186.238.101
+pop.diny.com.  3600  IN  A 35.186.238.101
+shop.diny.com.  3600  IN  A 35.186.238.101
+cp.diny.com.  3600  IN  A 35.186.238.101
+imap.diny.com.  3600  IN  A 35.186.238.101
+vpn.diny.com.  3600  IN  A 35.186.238.101
+admin.diny.com.  3600  IN  A 35.186.238.101
+forum.diny.com.  3600  IN  A 35.186.238.101
+whm.diny.com.  3600  IN  A 35.186.238.101
+m.diny.com.  3600  IN  A 35.186.238.101
+mysql.diny.com.  3600  IN  A 35.186.238.101
+sql.diny.com.  3600  IN  A 35.186.238.101
+email.diny.com.  3600  IN  A 35.186.238.101
+webmail.diny.com.  3600  IN  A 35.186.238.101
+mail.diny.com.  3600  IN  A 35.186.238.101
+cpanel.diny.com.  3600  IN  A 35.186.238.101
+webdisk.diny.com.  3600  IN  A 35.186.238.101
+wiki.diny.com.  3600  IN  A 35.186.238.101
+blog.diny.com.  3600  IN  A 35.186.238.101
+autoconfig.diny.com.  3600  IN  A 35.186.238.101
+secure.diny.com.  3600  IN  A 35.186.238.101
+mobile.diny.com.  3600  IN  A 35.186.238.101
+old.diny.com.  3600  IN  A 35.186.238.101
+static.diny.com.  3600  IN  A 35.186.238.101
+web.diny.com.  3600  IN  A 35.186.238.101
+beta.diny.com.  3600  IN  A 35.186.238.101
+media.diny.com.  3600  IN  A 35.186.238.101
+ns3.diny.com.  3600  IN  A 35.186.238.101
+pop3.diny.com.  3600  IN  A 35.186.238.101
+www2.diny.com.  3600  IN  A 35.186.238.101
+ns2.diny.com.  3600  IN  A 35.186.238.101
+mail2.diny.com.  3600  IN  A 35.186.238.101
+ns1.diny.com.  3600  IN  A 35.186.238.101
+diny.com.  3600  IN  A 35.186.238.101
